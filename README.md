@@ -44,10 +44,9 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 - Tune hyperparameters for better model accuracy.
 - Deploy the model as a web API for real-time fraud detection.
 
-## License
-This project is licensed under the MIT License.
 
 ---
 **Author:** Harsh Mankar
+
 **Contact:** harshrajendramankar@gmail.com
 
